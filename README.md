@@ -30,7 +30,7 @@ I am a Ph.D. candidate at Hunan University, expecting to graduate in November 20
 
 7. Shuai Yuan, Hanlin Qin, Renke Kou, Xiang Yan, **Zechuan Li**, Chenxu Peng, Dongliang Wu. **Beyond Full Labels: Energy-Double-Guided Single-Point Prompt for Infrared Small Target Label Generation.** *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2025.
 
-8. Chen, Tom Tongjia, Hongshan Yu, Zhengeng Yang, Ming Li, **Zechuan Li**, Jingwen Wang, Wei Miao, Wei Sun, and Chen Chen. "First place solution to the cvpr'2023 aqtc challenge: A function-interaction centric approach with spatiotemporal visual-language alignment." arXiv preprint arXiv:2306.13380 (2023).
+8. Chen, Tom Tongjia, Hongshan Yu, Zhengeng Yang, Ming Li, **Zechuan Li**, Jingwen Wang, Wei Miao, Wei Sun, and Chen Chen. **First place solution to the cvpr'2023 aqtc challenge: A function-interaction centric approach with spatiotemporal visual-language alignment.** arXiv preprint arXiv:2306.13380 (2023).
 
 
 ---
