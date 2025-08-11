@@ -1,5 +1,5 @@
 ## 👋 Overview 
-I am a Ph.D. candidate in Computer Science at Hunan University, expecting to graduate in November 2025 and currently seeking a faculty or postdoctoral position. My research focuses on 3D vision and embodied intelligence, with emphasis on 3D object detection, 3D scene question answering, and automated annotation. I have authored over twenty peer-reviewed publications and serve as a regular reviewer for CVPR, ICCV, ICLR, NeurIPS, and AAAI, as well as IJCV, IEEE Transactions on Mechatronics, IEEE Transactions on Cybernetics, and Expert Systems with Applications.
+I am a Ph.D. candidate at Hunan University, expecting to graduate in November 2025 and currently seeking a faculty or postdoctoral position. My research focuses on 3D vision and embodied intelligence, with emphasis on 3D object detection, 3D scene question answering, and automated annotation. I have authored over twenty peer-reviewed publications and serve as a regular reviewer for CVPR, ICCV, ICLR, NeurIPS, and AAAI, as well as IJCV, IEEE Transactions on Mechatronics, IEEE Transactions on Cybernetics, and Expert Systems with Applications.
 
 **Email:** [lizechuan@hnu.edu.cn](mailto:lizechuan@hnu.edu.cn)
 
