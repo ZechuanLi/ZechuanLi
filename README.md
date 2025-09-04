@@ -38,4 +38,4 @@ I am a Ph.D. candidate at Hunan University, expecting to graduate in November 20
 ## 👯 Journal Reviewer
 
 - **Conferences**：CVPR、ICCV、ICLR、NeurIPS、AAAI, etc.    
-- **Journals**：IJCV、IEEE Transactions on Mechatronics、IEEE Transactions on Cybernetics、Expert Systems with Applications, etc.
+- **Journals**：IJCV、IEEE Transactions on Image Processing、IEEE Transactions on Mechatronics、IEEE Transactions on Cybernetics、Expert Systems with Applications, etc.
