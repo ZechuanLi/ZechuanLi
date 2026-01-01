@@ -26,15 +26,17 @@ I am a Ph.D. candidate at Hunan University, expecting to graduate in November 20
 
 5. Yan Li, Tianyi Zhang, **Zechuan Li**, Soyeon Caren Han. **A Training-Free Length Extrapolation Approach for LLMs: Greedy Attention Logit Interpolation (GALI).** Conference on Empirical Methods in Natural Language Processing.2025.(CCF-B, EMNLP2025).
 
-6. Tongjia Chen, Hongshan Yu, Zhengeng Yang, **Zechuan Li**, Wei Sun, Chen Chen. **OST: Refining Text Knowledge with Optimal Spatio-Temporal Descriptor for General Video Recognition.** In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 2024: 18888–18898. *(CVPR 2024)*
+6. Yihao Ding, Soyeon Caren Han, **Zechuan Li**, Hyunsuk Chung. **SynJAC: Synthetic-data-driven Joint-granular Adaptation and Calibration for Domain Specific Scanned Document Key Information Extraction.** Information Fusion, 2025: 104074. *(JCR Q1; IF: 15.6)*
 
-7. Jingwen Wang, Hongshan Yu, Xuefei Lin, **Zechuan Li**, Wei Sun, Naveed Akhtar. **EFRNet-VL: An End-to-End Feature Refinement Network for Monocular Visual Localization in Dynamic Environments.** *Expert Systems with Applications*, 243: 122755, 2024. *(IF: 7.5)*
+7. Tongjia Chen, Hongshan Yu, Zhengeng Yang, **Zechuan Li**, Wei Sun, Chen Chen. **OST: Refining Text Knowledge with Optimal Spatio-Temporal Descriptor for General Video Recognition.** In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 2024: 18888–18898. *(CVPR 2024)*
 
-8. Yanmei Zou, Hongshan Yu, Zhengeng Yang, **Zechuan Li**, Naveed Akhtar. **Improved MLP Point Cloud Processing with High-Dimensional Positional Encoding.** In *Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)*, 38(7): 7891–7899, 2024. *(AAAI 2024)*
+8. Jingwen Wang, Hongshan Yu, Xuefei Lin, **Zechuan Li**, Wei Sun, Naveed Akhtar. **EFRNet-VL: An End-to-End Feature Refinement Network for Monocular Visual Localization in Dynamic Environments.** *Expert Systems with Applications*, 243: 122755, 2024. *(IF: 7.5)*
 
-9. Shuai Yuan, Hanlin Qin, Renke Kou, Xiang Yan, **Zechuan Li**, Chenxu Peng, Dongliang Wu. **Beyond Full Labels: Energy-Double-Guided Single-Point Prompt for Infrared Small Target Label Generation.** *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2025.
+9. Yanmei Zou, Hongshan Yu, Zhengeng Yang, **Zechuan Li**, Naveed Akhtar. **Improved MLP Point Cloud Processing with High-Dimensional Positional Encoding.** In *Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)*, 38(7): 7891–7899, 2024. *(AAAI 2024)*
 
-10. Chen, Tom Tongjia, Hongshan Yu, Zhengeng Yang, Ming Li, **Zechuan Li**, Jingwen Wang, Wei Miao, Wei Sun, and Chen Chen. **First place solution to the cvpr'2023 aqtc challenge: A function-interaction centric approach with spatiotemporal visual-language alignment.** arXiv preprint arXiv:2306.13380 (2023).
+10. Shuai Yuan, Hanlin Qin, Renke Kou, Xiang Yan, **Zechuan Li**, Chenxu Peng, Dongliang Wu. **Beyond Full Labels: Energy-Double-Guided Single-Point Prompt for Infrared Small Target Label Generation.** *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2025.
+
+11. Chen, Tom Tongjia, Hongshan Yu, Zhengeng Yang, Ming Li, **Zechuan Li**, Jingwen Wang, Wei Miao, Wei Sun, and Chen Chen. **First place solution to the cvpr'2023 aqtc challenge: A function-interaction centric approach with spatiotemporal visual-language alignment.** arXiv preprint arXiv:2306.13380 (2023).
 
 
 ---
