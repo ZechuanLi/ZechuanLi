@@ -1,7 +1,7 @@
 ## 👋 Overview 
 I received my Ph.D. degree from the School of Artificial Intelligence and Robotics at Hunan University in December 2025. Since April 2026, I have been with the School of Computer and Artificial Intelligence at Zhengzhou University. My research focuses on 3D vision and embodied intelligence, with emphasis on 3D object detection, 3D scene question answering, and automated annotation. I have authored over twenty peer-reviewed publications and serve as a regular reviewer for CVPR, ICCV, ICLR, NeurIPS, and AAAI, as well as IJCV, IEEE Transactions on Mechatronics, IEEE Transactions on Cybernetics, and Expert Systems with Applications.
 
-**Email:** [lizechuan@hnu.edu.cn](mailto:lizechuan@hnu.edu.cn)
+**Email:** [lizechuan@hnu.edu.cn](mailto:lizechuan@hnu.edu.cn); [zechuanli@zzu.edu.cn](mailto:zechuanli@zzu.edu.cn)
 
 ---
 
