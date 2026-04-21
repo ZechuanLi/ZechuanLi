@@ -1,5 +1,5 @@
 ## 👋 Overview 
-I am a Ph.D. candidate at Hunan University, expecting to graduate in November 2025 and currently seeking a faculty or postdoctoral position. My research focuses on 3D vision and embodied intelligence, with emphasis on 3D object detection, 3D scene question answering, and automated annotation. I have authored over twenty peer-reviewed publications and serve as a regular reviewer for CVPR, ICCV, ICLR, NeurIPS, and AAAI, as well as IJCV, IEEE Transactions on Mechatronics, IEEE Transactions on Cybernetics, and Expert Systems with Applications.
+I received my Ph.D. degree from the School of Artificial Intelligence and Robotics at Hunan University in December 2025. Since April 2026, I have been with the School of Computer and Artificial Intelligence at Zhengzhou University. My research focuses on 3D vision and embodied intelligence, with emphasis on 3D object detection, 3D scene question answering, and automated annotation. I have authored over twenty peer-reviewed publications and serve as a regular reviewer for CVPR, ICCV, ICLR, NeurIPS, and AAAI, as well as IJCV, IEEE Transactions on Mechatronics, IEEE Transactions on Cybernetics, and Expert Systems with Applications.
 
 **Email:** [lizechuan@hnu.edu.cn](mailto:lizechuan@hnu.edu.cn)
 
@@ -24,17 +24,17 @@ I am a Ph.D. candidate at Hunan University, expecting to graduate in November 20
 
 4. **Zechuan Li**, Hongshan Yu, Yihao Ding, Shuai Yuan, Naveed Akhtar. **LPL3D: LVLM-driven Pseudo-Labeling for 3D Object Detection.** *IEEE Transactions on Circuits and Systems for Video Technology(T-CSVT)*, 2025. *(Accepted; JCR Q1; IF: 11.1)*
 
-5. Yan Li, Tianyi Zhang, **Zechuan Li**, Soyeon Caren Han. **A Training-Free Length Extrapolation Approach for LLMs: Greedy Attention Logit Interpolation (GALI).** Conference on Empirical Methods in Natural Language Processing.2025.(CCF-B, EMNLP2025).
+5. **Zechuan Li**, Hongshan Yu, Niu Zhang, Jinhao Qiao, Wei Sun, Naveed Akhtar. **Multi-modal Shape Encoding for 3D Object Detection.** *IEEE Transactions on Automation Science and Engineering(T-ASE)*, 2026. *(Accepted; JCR Q1; IF: 6.4)*
 
-6. Yihao Ding, Soyeon Caren Han, **Zechuan Li**, Hyunsuk Chung. **SynJAC: Synthetic-data-driven Joint-granular Adaptation and Calibration for Domain Specific Scanned Document Key Information Extraction.** Information Fusion, 2025: 104074. *(JCR Q1; IF: 15.6)*
+6. Yan Li, Tianyi Zhang, **Zechuan Li**, Soyeon Caren Han. **A Training-Free Length Extrapolation Approach for LLMs: Greedy Attention Logit Interpolation (GALI).** Conference on Empirical Methods in Natural Language Processing.2025.(CCF-B, EMNLP2025).
 
-7. Tongjia Chen, Hongshan Yu, Zhengeng Yang, **Zechuan Li**, Wei Sun, Chen Chen. **OST: Refining Text Knowledge with Optimal Spatio-Temporal Descriptor for General Video Recognition.** In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 2024: 18888–18898. *(CVPR 2024)*
+7. Yihao Ding, Soyeon Caren Han, **Zechuan Li**, Hyunsuk Chung. **SynJAC: Synthetic-data-driven Joint-granular Adaptation and Calibration for Domain Specific Scanned Document Key Information Extraction.** Information Fusion, 2025: 104074. *(JCR Q1; IF: 15.6)*
 
-8. Jingwen Wang, Hongshan Yu, Xuefei Lin, **Zechuan Li**, Wei Sun, Naveed Akhtar. **EFRNet-VL: An End-to-End Feature Refinement Network for Monocular Visual Localization in Dynamic Environments.** *Expert Systems with Applications*, 243: 122755, 2024. *(IF: 7.5)*
+8. Tongjia Chen, Hongshan Yu, Zhengeng Yang, **Zechuan Li**, Wei Sun, Chen Chen. **OST: Refining Text Knowledge with Optimal Spatio-Temporal Descriptor for General Video Recognition.** In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 2024: 18888–18898. *(CVPR 2024)*
 
-9. Yanmei Zou, Hongshan Yu, Zhengeng Yang, **Zechuan Li**, Naveed Akhtar. **Improved MLP Point Cloud Processing with High-Dimensional Positional Encoding.** In *Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)*, 38(7): 7891–7899, 2024. *(AAAI 2024)*
+9. Jingwen Wang, Hongshan Yu, Xuefei Lin, **Zechuan Li**, Wei Sun, Naveed Akhtar. **EFRNet-VL: An End-to-End Feature Refinement Network for Monocular Visual Localization in Dynamic Environments.** *Expert Systems with Applications*, 243: 122755, 2024. *(IF: 7.5)*
 
-10. Shuai Yuan, Hanlin Qin, Renke Kou, Xiang Yan, **Zechuan Li**, Chenxu Peng, Dongliang Wu. **Beyond Full Labels: Energy-Double-Guided Single-Point Prompt for Infrared Small Target Label Generation.** *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2025.
+10. Yanmei Zou, Hongshan Yu, Zhengeng Yang, **Zechuan Li**, Naveed Akhtar. **Improved MLP Point Cloud Processing with High-Dimensional Positional Encoding.** In *Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)*, 38(7): 7891–7899, 2024. *(AAAI 2024)*
 
 
 ---
