@@ -7,9 +7,8 @@ I received my Ph.D. degree from the School of Artificial Intelligence and Roboti
 
 ## 🔭 I focus on
 
-- 3D vision
-- 3D Object detection
-- 3D QA  
+- Robotic 3D Visual Perception and Scene Understanding
+- Label-Efficient 3D Learning
 - Embodied Intelligence
 
 ---
